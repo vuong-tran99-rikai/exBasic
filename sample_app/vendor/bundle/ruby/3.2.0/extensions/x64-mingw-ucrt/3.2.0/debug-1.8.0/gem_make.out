@@ -1,0 +1,20 @@
+current directory: D:/exBasic/sample_app/vendor/bundle/ruby/3.2.0/gems/debug-1.8.0/ext/debug
+C:/Ruby32-x64/bin/ruby.exe extconf.rb
+creating Makefile
+
+current directory: D:/exBasic/sample_app/vendor/bundle/ruby/3.2.0/gems/debug-1.8.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20230526-1988-j5lqff sitelibdir\=./.gem.20230526-1988-j5lqff clean
+
+current directory: D:/exBasic/sample_app/vendor/bundle/ruby/3.2.0/gems/debug-1.8.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20230526-1988-j5lqff sitelibdir\=./.gem.20230526-1988-j5lqff
+generating debug-x64-mingw-ucrt.def
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.so
+
+current directory: D:/exBasic/sample_app/vendor/bundle/ruby/3.2.0/gems/debug-1.8.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20230526-1988-j5lqff sitelibdir\=./.gem.20230526-1988-j5lqff install
+/usr/bin/install -c -m 0755 debug.so ./.gem.20230526-1988-j5lqff/debug
+
+current directory: D:/exBasic/sample_app/vendor/bundle/ruby/3.2.0/gems/debug-1.8.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20230526-1988-j5lqff sitelibdir\=./.gem.20230526-1988-j5lqff clean
